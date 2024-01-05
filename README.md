@@ -15,3 +15,5 @@ If you search for your location on weather.gov, the weather station ID is typica
 
 ## Lightning Sensor
 The lightnign sensor works, but the settings are not optimal.  In my loccation it seems to be overwhelmed by disturbers, and does not reliably detect actual lightning strikes.  YMMV.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y3S49FV)
