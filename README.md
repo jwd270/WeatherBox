@@ -1,5 +1,5 @@
 # WeatherBox
-Arduino Script For Hackerbox 087
+Arduino Program For Hackerbox 087
 
 As most of my hackerbox projects go, this is a work in progress.  I just need a couple more days to finish it.... ;)
 
